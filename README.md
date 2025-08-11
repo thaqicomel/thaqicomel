@@ -72,6 +72,15 @@ Here is the constellation of technologies I use to navigate my coding journey:
 
 ---
 
+<h2 style="color:#89DDFF;">🐍 My Contribution Graph</h2>
+<div align="center">
+  <p style="color:#C9D1D9;">Here's a fun little snake game munching on my contributions!</p>
+  <img src="https://raw.githubusercontent.com/thaqicomel/thaqicomel/main/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation on GitHub contribution graph" />
+  <br>
+</div>
+
+---
+
 <h2 style="color:#89DDFF;">🔗 Establish Connection</h2>
 
 <div align="center">
