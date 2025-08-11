@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/l41YmiCZ8y2VAt3sA/giphy.gif" width="100%" alt="Galaxy background"/>
 </p>
 
-<h1 align="center">Hi there, I'm [Your Name]! 👋</h1>
+<h1 align="center">Hi there, I'm Thaqi! 👋</h1>
 <h3 align="center">An explorer navigating the vast universe of code and AI.</h3>
 
 <p align="center">
@@ -66,8 +66,8 @@ Here is the constellation of technologies I use to navigate my coding journey:
 Here's a look at my activity across the GitHub galaxy:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thaqicomel&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaqicomel&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ Here's a look at my activity across the GitHub galaxy:
 Let's connect and explore the digital universe together.
 
 <p align="center">
-  <a href="[YOUR LINKEDIN PROFILE URL]" target="blank">
+  <a href="https://www.linkedin.com/in/thaqiyuddin-mizan-046458216/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn Profile" height="40" width="50" />
   </a>
   </p>
