@@ -6,7 +6,7 @@
 <br>
 
 # <span style="color:#89DDFF;">Hi there, I'm Thaqi! 👋</span>
-### <span style="color:#A5B4FC;">An explorer navigating the vast universe of code and AI.</span>
+### <span style="color:#A5B4FC;">Im just a small fish trying my best</span>
 
 <br>
 
@@ -21,10 +21,9 @@
 
 | Icon | Focus Area | Description |
 | :---: | --- | --- |
-| **🚀** | **Core Focus** | <span style="color:#C9D1D9;">Fascinated by the gravitational pull of **Generative AI, LLMs, LangChain,** and **NLP**, and always eager to discover new galaxies in **Software Infrastructure**.</span> |
+| **🚀** | **Core Focus** | <span style="color:#C9D1D9;">Fascinated by the gravitational pull of **Generative AI, LLMs, LangChain,** and **NLP**,</span> |
 | **🌌** | **Cloud Experience** | <span style="color:#C9D1D9;">Building on my experience with platforms like **Microsoft Azure** to construct resilient, star-sailing applications.</span>|
 | **🛰️** | **Development Approach** | <span style="color:#C9D1D9;">Learning by doing and launching projects using both backend thrusters (**Python, Django, FastAPI**) and frontend navigation systems (**React, TypeScript**).</span> |
-| **🤝** | **Collaboration** | <span style="color:#C9D1D9;">Looking to join new crews for collaborative missions. If you're building something cool, let's connect and explore the universe together!</span> |
 
 <br>
 
