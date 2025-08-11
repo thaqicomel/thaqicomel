@@ -78,7 +78,7 @@ Let's connect and explore the digital universe together.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thaqiyuddin-mizan-046458216/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn Profile" height="40" width="50" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thaqiyuddin-mizan-046458216/" height="40" width="50" />
   </a>
   </p>
 
