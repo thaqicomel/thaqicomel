@@ -31,9 +31,7 @@ I'm currently on an exciting expedition as an <strong>AI Software Engineer</stro
 
 <h2 align="center" style="color:#89DDFF;">My Tech Toolkit</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/teacat/dev-icon-animated/main/assets/python-animated.svg" alt="Python" width="80" height="80" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/teacat/dev-icon-animated/main/assets/javascript-animated.svg" alt="JavaScript" width="80" height="80" />
+  <img src="https://skillicons.dev/icons?i=python,js&theme=dark" />
 </p>
 <br>
 
