@@ -15,10 +15,10 @@
 
 I'm currently on an exciting expedition as an **AI Software Engineer**, charting new territories at **Singularity Connect** and **Aqqal.com**. My mission is to learn, explore, and contribute to the ever-expanding cosmos of technology.
 
--   🚀 I'm fascinated by the gravitational pull of **Generative AI**, **LLMs**, and **NLP**, and I'm always eager to discover new galaxies of knowledge in **Software Infrastructure**.
--   🌌 I'm building on my experience with cloud platforms like **Microsoft Azure** to better understand how to construct resilient, star-sailing applications.
--   🛰️ I believe in learning by doing and enjoy launching new projects using both **backend thrusters (Python, FastAPI)** and **frontend navigation systems (React, Flutter)**.
--   🤝 I’m always looking to join new crews for collaborative missions. If you're building something cool, let's connect and explore the universe together!
+- 🚀 I'm fascinated by the gravitational pull of **Generative AI**, **LLMs**, and **NLP**, and I'm always eager to discover new galaxies of knowledge in **Software Infrastructure**.
+- 🌌 I'm building on my experience with cloud platforms like **Microsoft Azure** to better understand how to construct resilient, star-sailing applications.
+- 🛰️ I believe in learning by doing and enjoy launching new projects using both **backend thrusters (Python, FastAPI)** and **frontend navigation systems (React, Flutter)**.
+- 🤝 I’m always looking to join new crews for collaborative missions. If you're building something cool, let's connect and explore the universe together!
 
 ---
 
@@ -66,7 +66,7 @@ Here is the constellation of technologies I use to navigate my coding journey:
 Here's a look at my activity across the GitHub galaxy:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thaqicomel&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thaqicomel&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Thaqi's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaqicomel&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -78,9 +78,9 @@ Let's connect and explore the digital universe together.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thaqiyuddin-mizan-046458216/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thaqiyuddin-mizan-046458216/" height="40" width="50" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="40" width="50" />
   </a>
-  </p>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l4KieZRc2wlstx4ys/giphy.gif" width="100%" alt="Stars background"/>
