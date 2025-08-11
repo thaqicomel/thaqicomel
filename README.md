@@ -31,9 +31,9 @@ I'm currently on an exciting expedition as an <strong>AI Software Engineer</stro
 
 <h2 align="center" style="color:#89DDFF;">My Tech Toolkit</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDk5emQ2ZXl5a2R2eGhoMWg0cjVhMmMwdWthdXRqcXN0aHZ0M2h0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kaBmqDWIgzj9k5Q64z/giphy.gif" alt="Python" width="80" height="80" />
+  <img src="https://raw.githubusercontent.com/teacat/dev-icon-animated/main/assets/python-animated.svg" alt="Python" width="80" height="80" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXRqNWJ1am01ZmxpaHlvcTlvY2k3MXF5eWZocTJubzJsdmU2b2g1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVso/giphy.gif" alt="JavaScript" width="80" height="80" />
+  <img src="https://raw.githubusercontent.com/teacat/dev-icon-animated/main/assets/javascript-animated.svg" alt="JavaScript" width="80" height="80" />
 </p>
 <br>
 
